@@ -16,7 +16,7 @@ print(Fore.YELLOW + "BILGILENDIRME! Instagram, bot olarak algılamasın diye iş
 sleep(5)
 basla = input("(Başlamak için Enter tuşuna basın)")
 account = input(Fore.CYAN + "Instagram kullanıcı adınız\n: @")
-password = input(Fore.CYAN + "Şifrenizi gitriniz\n: $")
+password = input(Fore.CYAN + "Şifrenizi giriniz\n: $")
 kimin = input(Fore.GREEN + "Kimin takipçilerini takip etmek istiyorsunuz\n: @")
 basladi = print(Fore.GREEN + "İşlem başlatılıyor...")
 sleep(3)

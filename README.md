@@ -5,16 +5,12 @@
 
 1. pip install -r requirements.txt
 2. Programın çalışması için tarayıcı sürümünüze göre webdriver gerekmektedir. Eğer bilgisayarınızda yüklü değilse, buradan indirip kurabilirsiniz.
-Chrome:
-https://chromedriver.chromium.org/downloads
-Edge:
-https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
-Firefox:
-https://github.com/mozilla/geckodriver/releases
-Safari:
-https://webkit.org/blog/6900/webdriver-support-in-safari-10/
-3. Webdriver ve projeyi aynı klasöre koyun
-4. python insta-oto-takip.py
+3. Chrome: https://chromedriver.chromium.org/downloads
+5. Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+7. Firefox: https://github.com/mozilla/geckodriver/releases
+8. Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+9. Webdriver ve projeyi aynı klasöre koyun
+10. python insta-oto-takip.py
 
 # Uyarı
 Bu programın kullanımından doğabilecek herhangi bir sorunun sorumluluğu kullanıcıya aittir. Programın amacı eğitim ve öğretim amaçlı olarak hazırlanmıştır. Instagram'ın kullanım koşullarına uygun şekilde kullanılması önerilir.
